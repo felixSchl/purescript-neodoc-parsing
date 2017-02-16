@@ -1,0 +1,25 @@
+{
+  "name": "purescript-neodoc-parsing",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felixSchl/purescript-neodoc-parsing.git"
+  },
+  "dependencies": {
+    "purescript-prelude": "^2.4.0",
+    "purescript-console": "^2.0.0",
+    "purescript-bifunctors": "^2.0.0",
+    "purescript-either": "^2.1.0",
+    "purescript-strings": "^2.1.0",
+    "purescript-lists": "^3.4.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0"
+  }
+}
